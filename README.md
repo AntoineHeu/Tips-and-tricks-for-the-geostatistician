@@ -11,8 +11,8 @@ this piece of code uses clustering of X,Y coordinates and the Z(elevation) coord
 
 Its strenght would be that finding the optimum number of clusters is automated and takes into account:
 
-- the spatial distribution of X,Y coordinates
-- A scoring which minimizes the standard deviation of elevations within clusters
+    - the spatial distribution of X,Y coordinates
+    - A scoring which minimizes the standard deviation of elevations within clusters
 
 The final script writes down the clusters assignation for the incomplete dataset. Jupyter Notebooks is used to ease the lecture of the script
   
