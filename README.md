@@ -1,4 +1,4 @@
-# Small_hacks
+# Small_tricks
 Small hacks useful for the data scientist and geostatistician
 
 - Description
