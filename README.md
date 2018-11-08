@@ -16,3 +16,6 @@ Its strenght would be that finding the optimum number of clusters is automated a
 
 The final script writes down the clusters assignation for the incomplete dataset. Jupyter Notebooks is used to ease the lecture of the script
   
+- S-GeMS_create_point-grid
+
+This piece of code generates a point-grid as a csv file. It takes into account a site limit as a polygon; its coordinates need to be given clockwise as it uses shapely library in python.
